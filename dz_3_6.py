@@ -26,3 +26,4 @@ for word in input('Введите слова разделенные пробел
 
 print(f'Вариант1: {" ".join(out_1)}')
 print(f'Вариант2: {" ".join(out_2)}')
+

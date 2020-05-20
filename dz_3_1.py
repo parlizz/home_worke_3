@@ -10,3 +10,4 @@ def my_func(arg_1, arg_2):
 
 
 print(my_func(int(input('введите первое число:')), int(input('введите второе число:'))))
+
