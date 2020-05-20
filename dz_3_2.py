@@ -16,3 +16,4 @@ person(
     email=input('Email: '),
     phone=input('Телефон: '),
 )
+
